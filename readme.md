@@ -47,6 +47,6 @@ Tenho sempre interesse em colaborar com projetos open-source ou atuar em desafio
 </div>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeandroRibeiro2018/LeandroRibeiro2018/dif/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/LeandroRibeiro2018/LeandroRibeiro2018/blob/main/dif/snake.svg />
 
 ###
