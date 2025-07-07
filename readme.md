@@ -29,7 +29,42 @@ Tenho sempre interesse em colaborar com projetos open-source ou atuar em desafio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Framework" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" height="30" />
+  <img src="https://img.shields.io/badge/Gradle-Build%20Tool-02303A?style=for-the-badge&logo=gradle&logoColor=white" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" title="Yarn" height="30" />
+</div>
+
+### 🛡️ Autenticação & Segurança
+<div align="left">
+  <img src="https://img.shields.io/badge/Keycloak-Identity%20Provider-0066CC?style=for-the-badge&logo=keycloak&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/OAuth2-Protocol-blue?style=for-the-badge&logo=oauth&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/JWT-Token-orange?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="30" />
+</div>
+
+### 🧪 Testes & Qualidade
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" title="JUnit" height="30" />
+  <img src="https://img.shields.io/badge/Mockito-Testing-lightgrey?style=for-the-badge&logo=java&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/Testcontainers-Docker-blue?style=for-the-badge&logo=docker&logoColor=white" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="ESLint" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" title="Prettier" height="30" />
+</div>
+
+### 📦 Integração & Mensageria
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" height="30" />
+  <img src="https://img.shields.io/badge/RabbitMQ-Queue-orange?style=for-the-badge&logo=rabbitmq&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/REST-API-lightgrey?style=for-the-badge&logo=rest&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/GraphQL-API-purple?style=for-the-badge&logo=graphql&logoColor=white" height="30" />
+</div>
+
+### 🧩 Observabilidade
+<div align="left">
+  <img src="https://img.shields.io/badge/ELK%20Stack-Logging-yellow?style=for-the-badge&logo=elastic&logoColor=black" height="30" />
+  <img src="https://img.shields.io/badge/Prometheus-Metrics-orange?style=for-the-badge&logo=prometheus&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/Grafana-Dashboard-orange?style=for-the-badge&logo=grafana&logoColor=white" height="30" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-Tracing-purple?style=for-the-badge&logo=opentelemetry&logoColor=white" height="30" />
 </div>
 
 ### 🗃️ Banco de Dados
@@ -49,8 +84,8 @@ Tenho sempre interesse em colaborar com projetos open-source ou atuar em desafio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" height="30" />
   <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" title="OpenShift" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure" height="30" />
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="Amazon AWS" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" height="30" />
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" height="30" />
 </div>
 
 ### 🎨 Frontend
@@ -60,7 +95,9 @@ Tenho sempre interesse em colaborar com projetos open-source ou atuar em desafio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="30" />
 </div>
+
 
 <div align="left">
 <a href="https://www.youtube.com/@LeandroA.Ribeiro" target="_blank">
